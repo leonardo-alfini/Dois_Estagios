@@ -21,7 +21,7 @@ Dados_SE --> Dados sobre a subestação
 
 ```
 
-Execução do programa (Prompt de comando do Windows):
+Exemplo de execução do programa (Prompt de comando do Windows):
 
 ```
 python Segundo_Estagio.py Primeiro_Estagio.out Dados_SE.out
