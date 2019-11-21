@@ -5,7 +5,7 @@ O programa constitui parte do projeto de TCC desenvolvido por: Ana Carolina de A
 
 Curso de Engenharia Elétrica - UFPR
 
-Data: Novembro de 2019
+Novembro de 2019
 
 ```
 
