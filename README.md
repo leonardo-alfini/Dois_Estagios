@@ -17,7 +17,7 @@ Segundo_Estagio.py --> Algoritmo do programa
 
 Primeiro_Estagio.out --> Dados de curto-circuito gerados pelo ANAFAS
 
-Dados_SE --> Dados sobre a subestação
+Dados_SE.out --> Dados sobre a subestação
 
 ```
 
