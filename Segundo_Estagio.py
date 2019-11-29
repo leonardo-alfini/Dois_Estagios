@@ -56,7 +56,7 @@ while(i < ND):
         i += 1
 
 shunt = np.zeros(len(dados[0])-3, dtype = int) # Vetor com os shunts
-print(shunt) 
+
 i = 3
 while(i < len(dados[0])):
        shunt[i-3] = dados[0][i]
